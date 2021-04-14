@@ -2,7 +2,7 @@
 
 This is a general RGB OLED display Module, 1.5inch diagonal, 128x128 pixels, 16-bit high color (65K colors), with embedded controller, communicating via SPI interface.
 
-Look at the OLED_schematic.png to setup your circuit. Your circuit should exactly be the same for this to work. 
+Look at the OLED_schematic.png to setup your circuit. Your circuit should be exactly the same for this to work. 
 
 After that, download this repository and extract the files to a suitable location.
 
@@ -21,4 +21,6 @@ https://youtu.be/Ep0zJwLCpAc
 Note: All the code and libraries have been taken from:
 
 https://www.waveshare.com/wiki/1.5inch_RGB_OLED_Module
+
+Note: Now that you have a working sample, you can start making any changes in the code you like.
 
