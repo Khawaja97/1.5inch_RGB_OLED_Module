@@ -14,9 +14,11 @@ Connect your arduino uno to your computer and upload the code.
 
 
 Click on the link below for a working demo: 
+
 https://youtu.be/Ep0zJwLCpAc
 
 
-Note: All the code and libraries have been taken from: 
+Note: All the code and libraries have been taken from:
+
 https://www.waveshare.com/wiki/1.5inch_RGB_OLED_Module
 
