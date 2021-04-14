@@ -22,5 +22,6 @@ Note: All the code and libraries have been taken from:
 
 https://www.waveshare.com/wiki/1.5inch_RGB_OLED_Module
 
+
 Note: Now that you have a working sample, you can start making any changes in the code you like.
 
